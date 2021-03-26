@@ -1,1 +1,1 @@
-# js-RandonChoicePicker
+# js-RandomChoicePicker
